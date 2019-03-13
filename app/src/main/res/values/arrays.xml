@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home">
+        <item>@string/view</item>
+        <item>@string/manual</item>
+        <item>@string/scan</item>
+        <item>@string/input_code</item>
+        <item>@string/input_auto</item>
+        <item>@string/search</item>
+    </string-array>
+</resources>
